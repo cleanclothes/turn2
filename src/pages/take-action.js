@@ -29,13 +29,12 @@ const Generic = (props) => (
                     <p>Meanwhile hundreds of thousands of workers making H&amp;M clothing still cannot lift themselves out of poverty with the hard work hidden behind the glossy storefronts. </p>
                     <p>H&amp;M has the financial means and the power to stay true to their original commitment. Not only that – they could even go beyond that and cover their whole supply chain. </p>
                     <p>You have a voice in determining H&amp;M’s course of action! </p>
-                    <h3>What you can do:</h3>
-                    <h4><a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer">Sign the petition</a></h4>
-                    <a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer"><img className="image right" src={wemove} alt="logo wemove.eu" /></a>
-                    <p>We've teamed up with <a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer">wemove.eu</a> to let our voices be heard.</p>
-                    <p>So please <a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer">sign the petition</a> and let your friends know to do the same!</p>
+                     <h3><a href="https://act.wemove.eu/campaigns/Living-Wages-HM" target="_blank" rel="noopener noreferrer">Sign the petition</a></h3>
+                    <a href="https://act.wemove.eu/campaigns/Living-Wages-HM" target="_blank" rel="noopener noreferrer"><img className="image right" src={wemove} alt="logo wemove.eu" /></a>
+                    <p>We've teamed up with <a href="https://act.wemove.eu/campaigns/Living-Wages-HM" target="_blank" rel="noopener noreferrer">wemove.eu</a> to let our voices be heard.</p>
+                    <p>So please <a href="https://act.wemove.eu/campaigns/Living-Wages-HM" target="_blank" rel="noopener noreferrer">sign the petition</a> and let your friends know to do the same!</p>
 
-                    <h4>Use your voice on social media</h4>
+                    <h3>Use your voice on social media</h3>
 
                     <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">As simple as that <a href="https://twitter.com/hm?ref_src=twsrc%5Etfw">@hm</a>! Keep your promises and guarantee <a href="https://twitter.com/hashtag/FairEmployment?src=hash&amp;ref_src=twsrc%5Etfw">#FairEmployment</a> conditions! Our community can give you thousands of reasons why. Here&#39;s one of them ⤵️  🔊 <a href="https://t.co/V1mTUFPWi3">https://t.co/V1mTUFPWi3</a> <a href="https://twitter.com/cleanclothes?ref_src=twsrc%5Etfw">@cleanclothes</a> <a href="https://twitter.com/hashtag/TurnAroundHM?src=hash&amp;ref_src=twsrc%5Etfw">#TurnAroundHM</a> <a href="https://t.co/xFsMjtgapb">pic.twitter.com/xFsMjtgapb</a></p>&mdash; WeMove.EU (@wemoveEU) <a href="https://twitter.com/wemoveEU/status/1032629174572396545?ref_src=twsrc%5Etfw">August 23, 2018</a></blockquote>
 

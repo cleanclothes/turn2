@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import Banner from '../components/Banner'
 
 export default ({ data }) => {
   const post = data.markdownRemark
@@ -8,6 +9,7 @@ export default ({ data }) => {
     <Layout>
       <div id="main" className="alt">
       <section id="one">
+
                 <div className="inner">
                     <header className="major">
                       <h2>{post.frontmatter.title}</h2>
@@ -29,4 +31,4 @@ export const query = graphql`
       }
     }
   }
- ` 
+ `

@@ -7,7 +7,8 @@ const Footer = (props) => (
     <footer id="footer">
         <div className="inner">
         <section>
-
+                <ul className="actions icons">
+                    <li><a href="take-action/" className="button big scrolly">Take action!</a></li>                </ul>
             <ul className="icons">
                 <li><a href="https://twitter.com/cleanclothes" title="Twitter" className="icon fa-twitter fa-2x alt"><span className="label">Twitter</span></a></li>
                 <li><a href="https://facebook.com/cleanclothescampaign" title="Facebook" className="icon fa-facebook fa-2x alt"><span className="label">Facebook</span></a></li>
