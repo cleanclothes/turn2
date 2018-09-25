@@ -7,7 +7,7 @@ path: "/wage-research-september-2018/"
 Research findings published today reveal that many workers making H&M’s clothes live below the poverty line -- despite H&M’s promise of a living wage by 2018, and despite the brand’s recent deceptive claims of progress. Interviewed workers in India and Turkey earn about a third and in Cambodia less than one-half of the estimated living wage. In Bulgaria interviewed workers’ salary at H&M’s “gold supplier” is not even 10 per cent of what would be required for workers and their families to have decent lives.
 <!-- end -->
 
-Full research (PDF) | Summary version (PDF)
+[Full research (PDF)](../assets/images/hm-wages-september2018-full.pdf) | [Summary version (PDF)](../assets/images/hm-wages-september2018-summary.pdf)
 --- | ---
 [![Minimum vs Living Wage](overtime.jpg)](../assets/images/hm-wages-september2018-full.pdf) | [![Minimum vs Living Wage](circles-graphic.jpg)](../assets/images/hm-wages-september2018-summary.pdf)
 
