@@ -47,26 +47,12 @@ const Generic = (props) => (
                     <blockquote>I want #LivingWageNow for workers in @HM supply chain! #TurnAroundHM - Stop turning your back on the living wage commitment! #HM </blockquote>
                     <blockquote>Hey, @HM, you committed to making sure that workers are paid a #LivingWage by 2018. Make it happen, #HM! #TurnAroundHM #LivingWageNow </blockquote>
 
+                    <h4>Leave a message on <a href="https://www.facebook.com/hm/" target="_blank" rel="noopener noreferrer">H&amp;M's Facebook wall.</a></h4>
+                    <p>Let your creative sparks fly, or use one of these messages:</p>
+                    <blockquote>I want people who make the clothes I buy from you to be paid a living wage. Please H&amp;M, stop turning your back on the commitment you made in 2013 and make sure workers get a #LivingWageNow! #TurnAroundHM</blockquote>
+                    <blockquote>I was shocked to learn about poverty wages at your "gold" and "platinum" supplier factories. Those workers were covered by your commitment to a living wage by 2018! No more empty words, H&amp;M, I want workers to be paid a #LivingWageNow! #TurnAroundHM</blockquote>
+                    <blockquote>It is important for me to know that workers who make my clothes can have decent lives. To begin with, I expect you to stay true to the commitment that 850,000 garment workers will get a living wage by 2018. #TurnAroundHM #LivingWageNow</blockquote>
 
-                    <p>Make sure to check back and follow our social media for more ways to support this effort, and/or <a href="http://eepurl.com/dsx8tP" title="Newsletter signup">sign up for our newsletter.</a> </p>
-                    <ul className="icons">
-
-                        <li><a href="https://twitter.com/cleanclothes" title="Twitter" target="_blank" rel="noopener noreferrer" className="icon fa-twitter fa-2x alt"></a>
-                            <a href="https://twitter.com/cleanclothes" title="Twitter" target="_blank" rel="noopener noreferrer"><h5>@cleanclothes</h5></a>
-
-                        </li>
-                        <li><a href="https://www.facebook.com/cleanclothescampaign/" title="Facebook" target="_blank" rel="noopener noreferrer" className="icon  fa-facebook fa-2x alt">
-                        </a><a href="https://www.facebook.com/cleanclothescampaign/" title="Facebook" target="_blank" rel="noopener noreferrer" ><h5>cleanclothescampaign</h5></a>
-
-                        </li>
-                        <li><a href="https://www.linkedin.com/company/clean-clothes-campaign/" title="LinkedIn" target="_blank" rel="noopener noreferrer" className="icon fa-linkedin fa-2x alt"></a>
-                            <a href="https://www.linkedin.com/company/clean-clothes-campaign/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><h5>Clean Clothes Campaign</h5></a>
-
-                        </li>
-                        <li><a href="http://eepurl.com/dsx8tP" title="Newsletter signup" className="icon fa-bullhorn fa-2x alt"><span className="label">Newsletter signup</span></a>
-                            <a href="http://eepurl.com/dsx8tP" title="Newsletter signup" target="_blank" rel="noopener noreferrer"><h5>Newsletter signup</h5></a>
-                        </li>
-                    </ul>
                 </div>
             </section>
         </div>

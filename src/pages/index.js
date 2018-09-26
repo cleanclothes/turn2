@@ -34,7 +34,7 @@ class HomeIndex extends React.Component {
           <meta property="og:url" content="https://turnaroundhm.org" />
           <meta property="og:title" content="Turn Around H&M" />
           <meta property="og:description" content="Let's make sure H&M starts paying a living wage" />
-          <meta property="og:image" content="https://turnaroundhm.org/static/turnaroundhm.ace3460e.png" />
+          <meta property="og:image" content={turnaroundhm} />
           <meta property="og:type" content="website" />
           <meta property="fb:app_id" content="463882227038771" />
           {/* Twitter Card tags */}
@@ -44,7 +44,7 @@ class HomeIndex extends React.Component {
           />
           <meta name="twitter:title" content="Turn Around H&M" />
           <meta name="twitter:description" content="Let's make sure H&M starts paying a living wage" />
-          <meta name="twitter:image" content="https://turnaroundhm.org/static/turnaroundhm.ace3460e.png" />
+          <meta name="twitter:image" content={turnaroundhm} />
                 </Helmet>
 
                 <Banner />

@@ -22,13 +22,13 @@ Overtime hours in three out of the six researched factories often exceed the leg
 
 ### Workplace faintings
 
-Poor wages, excessive overtime and the additional burden of household work result in malnutrition, fatigue and workplace faintings. 
+Poor wages, excessive overtime and the additional burden of household work result in malnutrition, fatigue and workplace faintings.
 Every third Indian woman and two thirds of interviewees in Cambodia – who work at factories listed as H&M’s “platinum suppliers” – had fainted at work. A worker in India reported that fellow workers had to take her to the hospital because she had hit a machine and was bleeding internally after she had fainted at work.
 Workers in Bulgaria also saw workplace faintings as an everyday work occurrence. Moreover, a worker in Bulgaria said that, “A fellow worker was fired after she fainted.”
 
 ### Research background
 
-Interviews with workers and desk research were conducted between March and June 2018 within the “Turn Around, H&M!” campaign coordinated by Clean Clothes Campaign and actively supported by the International Labor Rights Forum and WeMove.EU. 
+Interviews with workers and desk research were conducted between March and June 2018 within the “Turn Around, H&M!” campaign coordinated by Clean Clothes Campaign and actively supported by the International Labor Rights Forum and WeMove.EU.
 The campaign was launched in May 2018, as it became evident that H&M is not meeting its commitment that all “H&M’s strategic suppliers should have pay structures in place to pay a fair living wage by 2018. By then, this will reach around 850 000 textile workers.” In 2013 when this commitment was made, those workers made 60% of H&M’s products, sourced from ‘strategic and preferred suppliers’ which H&M grades as gold or platinum. That was the key criterion for the selection of factories for this research.
 
 ### H&M’s words cannot be trusted
