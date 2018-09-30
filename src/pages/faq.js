@@ -80,10 +80,10 @@ const Generic = (props) => (
                                     <div><p>No, a minimum wage, where it exists, is not the same as a living wage. What the minimum wage amounts to differs per country, but in almost all production countries it is far from sufficient to provide for workers’ and their families’ basic needs. Moreover, workers typically work more than 48 hours per week to earn those wages.</p>
                                 <p>For instance, the Stitched up <a href="https://cleanclothes.org/livingwage/europe" target="_blank" rel="noopener noreferrer">report published by Clean Clothes Campaign in 2017</a> showed that there was a large gap between the legal minimum wages in Eastern/South-Eastern Europe and Turkey, and what a worker would actually need to provide for themselves and their family. </p></div>
                                     </dd>
-                                    <dt>How can I / my organization join the campaign?</dt>
+                                    <dt>How can I support the campaign?</dt>
                                     <dd>
-                            <div><p>Please take a look at the &ldquo;Turn H&amp;M Around&rdquo; section above for concrete suggestions of what you can do. Signing and spreading <a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer">the petition</a> and using your social media channels to demand that H&amp;M ensures living wages in its supply chain would be a great start. We will be posting more suggestions as the campaign unfolds, so make sure to check back, and sign up for our updates. </p>
-                <p>If your organization would like to become a part of the campaign coalition, please get in touch with <a href="mailto:join@turnaroundhm.org">join@turnaroundhm.org</a></p></div>
+                            <div><p>Please take a look at &ldquo;Take action! &rdquo; via the main menu or the button at the bottom of every page for concrete suggestions of what you can do. </p><p>Signing and spreading <a href="https://act.wemove.eu/campaigns/760" target="_blank" rel="noopener noreferrer">the petition</a> and using your social media channels to demand that H&amp;M ensures living wages in its supply chain would be a great start. We will be posting more suggestions as the campaign unfolds, so make sure to check back, and sign up for our updates. </p>
+                </div>
                                     </dd>
 
 

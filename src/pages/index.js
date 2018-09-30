@@ -4,8 +4,6 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
-import ukraineworkers01 from '../assets/images/ukraine-workers01.jpg'
-import indiaworkers01 from '../assets/images/india-workers01.jpg'
 import indiaworkers02 from '../assets/images/india-workers02.jpg'
 import cambodiaworkers01 from '../assets/images/cambodia-workers01.jpg'
 import cambodiaworkers02 from '../assets/images/cambodia-workers02.jpg'
@@ -14,9 +12,8 @@ import pic01 from '../assets/images/pic01.jpg'
 import turnaround from '../assets/images/turnaround.svg'
 import ahead from '../assets/images/ahead.svg'
 import turnright from '../assets/images/turnright.svg'
-import ccclogo from '../assets/images/ccc-logo-small.svg'
 import turnaroundhm from '../assets/images/turnaroundhm.png'
-import wemove from '../assets/images/wemove.png'
+
 
 class HomeIndex extends React.Component {
     render() {

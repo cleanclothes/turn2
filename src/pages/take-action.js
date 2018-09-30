@@ -4,11 +4,6 @@ import Layout from '../components/layout'
 
 import stockholm01 from '../assets/images/stockholm01.jpg'
 import berlin01 from '../assets/images/berlin01.jpg'
-import turnaround from '../assets/images/turnaround.svg'
-import ahead from '../assets/images/ahead.svg'
-import turnright from '../assets/images/turnright.svg'
-import ccclogo from '../assets/images/ccc-logo-small.svg'
-import turnaroundhm from '../assets/images/turnaroundhm.png'
 import wemove from '../assets/images/wemove.png'
 
 const Generic = (props) => (

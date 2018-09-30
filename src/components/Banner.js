@@ -10,7 +10,7 @@ const Banner = (props) => (
                 <h3 style={{ color: '#000' }}>Sign the Living Wage petition <br />
                     and get active on social media.</h3>
                 <ul className="actions">
-                    <li><a href="take-action/" className="button big next scrolly">Take action!</a></li>
+                    <li><a href="/take-action/" className="button big next scrolly">Take action!</a></li>
                 </ul>
             </div>
         </div>

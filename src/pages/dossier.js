@@ -26,7 +26,10 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>Delving deeper</h2>
                     </header>
-                    <p>Background documents, research and evidence</p>
+                    <p>Research conducted in 2018 revealed that many workers making H&amp;M’s clothes in factories covered
+                        by H&amp;M's living wage commitment still work for poverty wages.
+                        Our research publications (below) present the findings from four countries, based on interviews with 62 workers.</p>
+                        <p>You are also welcome to take a look at the background document which presents the original commitment that H&amp;M made in 2013 and is now trying to erase from collective memory.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -37,7 +40,7 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Wage Research - September 2018</h3>
+                                <a href={hmwagesfull}><h3>Wage Research - September 2018</h3></a>
                             </header>
                             <p>This is the full version of our research, including interviews with workers.</p>
                             <p>Total length is 17 pages</p>
@@ -54,7 +57,7 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Wage Research - September 2018 - summary</h3>
+                        <a href={hmwagessummary}><h3>Wage Research - September 2018 - summary</h3></a>
                             </header>
                             <p>This is the summary version.</p>
                             <p>Total length is 8 pages</p>
@@ -71,7 +74,7 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Background document: H&amp;M's Roadmap and how it changed.</h3>
+                                <a href={hmbackdossier}><h3>Background document: H&amp;M's Roadmap and how it changed.</h3></a>
                             </header>
                             <p>A full background document, including the promises that H&amp;M made on their website before removing them...</p>
                             <ul className="actions">
