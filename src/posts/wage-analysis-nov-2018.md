@@ -20,7 +20,7 @@ H&M publishes information on average wages in some of its supplier factories. Bu
 
 Watch the short video below and look at [additional graphs and figures here]((../assets/images/wage-analysis-short-nov-2018.pdf))
 
-`youtube: https://www.youtube.com/watch?v=_D83XWovEEI`
+`youtube: https://www.youtube.com/watch?v=cwIp5qBk0Q0`
 
 Read the [Wage analysis here (PDF)](../assets/images/wage-analysis-short-nov-2018.pdf)
 
