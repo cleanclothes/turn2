@@ -10,6 +10,8 @@ import pic10 from '../posts/toycar.jpg'
 import hmwagesfull from '../assets/images/hm-wages-september2018-full.pdf'
 import hmwagessummary from '../assets/images/hm-wages-september2018-summary.pdf'
 import hmbackdossier from '../assets/images/background-hm-roadmap.pdf'
+import hmwagesshot  from '../posts/hmwage-shot.png'
+import hmwageanalysis from '../assets/images/wage-analysis-nov-2018.pdf'
 
 const Landing = (props) => (
     <Layout>
@@ -83,6 +85,23 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
+                <section>
+                    <a href={hmwageanalysis} className="image">
+                        <img src={hmwagesshot} alt="" />
+                    </a>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <a href={hmwageanalysis}><h3>Wage Analysis: H&amp;M's lack of real progress</h3></a>
+                            </header>
+                            <p>Finding the real numbers behind the smoke and mirrors that H&amp;M presents</p>
+                            <ul className="actions">
+                                <li><a href={hmwageanalysis} className="button">View (PDF)</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
             </section>
         </div>
 
