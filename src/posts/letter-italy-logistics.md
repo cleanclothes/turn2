@@ -1,15 +1,18 @@
 ---
-title: Letter of solidarity from an Italian H&M Logistics worker
+title: Growing Solidarity Among Workers Across H&M's Supply Chain
 date: "2018-11-23T09:15:00.284Z"
 path: "/letter-italy-logistics/"
 ---
+
+While focusing on the poverty wages in garment factories, this campaign has also engaged with workers and unions in other parts of H&M's vast supply chain. One example of the growing transnational solidarity among the exploited workers is this open letter that a logistics worker submitted for the #TurnAroundHM global week of action.
+
+
+<!-- end -->
 
 Dear colleagues, so far and yet so close,
 
 I am an Italian worker and I work making sure online orders of clothes you sew get to consumers.
 I read about your working conditions in the Clean Clothes Campaign's report “H&M: fair living wages were promised, poverty wages are the reality”. My story as a worker is not very different from yours and I would like to reach out to you in solidarity.
-
-<!-- end -->
 
 Since 2016, I have worked in an Italian logistics hub run by XPO, a leading international provider of transportation and logistics services. Our hub supplies 18 countries with H&M products. As a single mother with two children I am used to work hard, even seven days a week when it has been necessary. But I did not expect that working for H&M would totally change my life for the worse. At the huge warehouse where I work, which employed 350 people at that time (mostly women and immigrants), the day shift started at 4.30 a.m. and we did not know when our work would end or when we would be allowed to leave. Sometimes it was 4 hours of work, sometimes 12 in a row, you never knew. A simple text message would be sent  the evening before to tell you your working hours for the next day.
 
