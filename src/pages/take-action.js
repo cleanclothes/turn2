@@ -5,6 +5,8 @@ import Layout from '../components/layout'
 import stockholm01 from '../assets/images/stockholm01.jpg'
 import berlin01 from '../assets/images/berlin01.jpg'
 import wemove from '../assets/images/wemove.png'
+import challenge01 from '../assets/images/challenge01.jpg'
+import challenge02 from '../assets/images/challenge02.jpg'
 
 const Generic = (props) => (
     <Layout>
@@ -31,7 +33,16 @@ const Generic = (props) => (
 
                     <h3>Use your voice on social media</h3>
 
-                    <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">As simple as that <a href="https://twitter.com/hm?ref_src=twsrc%5Etfw">@hm</a>! Keep your promises and guarantee <a href="https://twitter.com/hashtag/FairEmployment?src=hash&amp;ref_src=twsrc%5Etfw">#FairEmployment</a> conditions! Our community can give you thousands of reasons why. Here&#39;s one of them ⤵️  🔊 <a href="https://t.co/V1mTUFPWi3">https://t.co/V1mTUFPWi3</a> <a href="https://twitter.com/cleanclothes?ref_src=twsrc%5Etfw">@cleanclothes</a> <a href="https://twitter.com/hashtag/TurnAroundHM?src=hash&amp;ref_src=twsrc%5Etfw">#TurnAroundHM</a> <a href="https://t.co/xFsMjtgapb">pic.twitter.com/xFsMjtgapb</a></p>&mdash; WeMove.EU (@wemoveEU) <a href="https://twitter.com/wemoveEU/status/1032629174572396545?ref_src=twsrc%5Etfw">August 23, 2018</a></blockquote>
+                    <p>You can join the <b><a href="https://www.instagram.com/explore/tags/turnaroundhmchallenge/" target="_blank" rel="noopener noreferrer">#TurnaroundHMChallenge</a></b>, and have some fun on Instagram!</p>
+                    <h4>HOW?</h4>
+                    <img src={challenge01} alt="Instagam challenge" />  <img src={challenge02} alt="Instagam challenge" />
+                    <ul>
+                        <li><b>Sign the <a href="https://act.wemove.eu/campaigns/Living-Wages-HM" target="_blank" rel="noopener noreferrer">petition</a></b></li>
+                        <li><b>Take a picture</b> of something overturned, or turned around, or take a selfie and overturn it</li>
+                        <li><b>Post it on Instagram</b> using #turnaroundhm and #turnaroundhmchallenge and nominate two or more friends to do the same!</li>
+                    </ul>
+
+                    <p>For inspiration, have a look at <a href="https://www.instagram.com/explore/tags/turnaroundhmchallenge/" target="_blank" rel="noopener noreferrer">what others have done</a>. Have fun!</p>
 
 
                     <div dangerouslySetInnerHTML={{ __html: '<a href="https://twitter.com/intent/tweet?button_hashtag=turnaroundhm&ref_src=twsrc%5Etfw" className="twitter-hashtag-button" data-text="@HM #TurnAroundHM #LivingWageNow" data-lang="en" data-dnt="true" data-show-count="false"><b>Tweet your own message to H&amp;M (@HM), using #TurnAroundHM and #LivingWageNow</b></a><script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>' }} />
