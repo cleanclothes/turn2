@@ -9,6 +9,14 @@ module.exports = {
       {
       resolve: `gatsby-plugin-sitemap`
 },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://turnaroundhm.org',
+        sitemap: 'https://turnaroundhm.org/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-twitter',
     {
@@ -81,7 +89,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-`gatsby-plugin-sharp`,    
+`gatsby-plugin-sharp`,
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
   ],
