@@ -2,11 +2,9 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import stockholm01 from '../assets/images/stockholm01.jpg'
-import berlin01 from '../assets/images/berlin01.jpg'
+import YouTube from 'react-youtube-embed'
+
 import wemove from '../assets/images/wemove.png'
-import challenge01 from '../assets/images/challenge01.jpg'
-import challenge02 from '../assets/images/challenge02.jpg'
 import { TwitterShareButton } from 'react-twitter-embed'
 
 const Generic = props => (
@@ -22,42 +20,43 @@ const Generic = props => (
     <div id="main" className="alt">
       <section id="one">
         <div className="inner">
-          <header className="major">
-            <h1>WILL YOU HELP TURN H&amp;M AROUND ?</h1>
-          </header>
+          <h2>WILL YOU HELP TURN H&amp;M AROUND ?</h2>
+
+          <div className="box">
+            <h3>Action at the H&amp;M shareholder meeting</h3>
+            <p className="spotlights">
+              We are giving H&amp;M shareholders the opportunity to improve
+              millions of lives: by voting for our{' '}
+              <a href="https://turnaroundhm.org/resolution/">
+                living wage resolution
+              </a>{' '}
+              on 7 May when they meet in Stockholm.{' '}
+            </p>
+            <p>
+              Find out more in the short video below, and use your voice on
+              social media to support our resolution
+            </p>
+          </div>
+
           <p>
-            In 2013 H&amp;M committed to ensuring living wages by 2018, which
-            brought the brand a lot of positive media coverage. Now H&amp;M is
-            trying to cover up that commitment, pretending they have been saying
-            something else all along. Meanwhile hundreds of thousands of workers
-            making H&amp;M clothing still cannot lift themselves out of poverty
-            with the hard work hidden behind the glossy storefronts. H&amp;M has
-            the financial means and the power to stay true to their original
-            commitment. Not only that – they could even go beyond that and cover
-            their whole supply chain.
-          </p>
-          <h3>Use your voice on social media</h3>
-          <p>
-            We are giving H&amp;M shareholders the opportunity to improve
-            millions of lives: by voting for our living wage resolution on 7 May
-            when they meet in Stockholm.{' '}
-          </p>
-          <p>
+            <YouTube id="3GH6z2Shipg" />
+            <h3>&nbsp;</h3>
+            <h3>Use your voice on social media</h3>
             Your voice can make a difference! Ask key shareholders to use their
             influence and do the right thing!
           </p>
           <h3>Twitter</h3>
           <b>Tweet the following using the button:</b>
           <p>
-            I support the @cleanclothes #LivingWage resolution and urge you to
-            vote for it on 7 May! Do the right thing @Swedbank @nordea @folksam
-            @Alecta @storebrand_no @AP4se #ShareYourProfits #TurnAroundHM
-            #LivingWageNow@AP4se
+            I support the @cleanclothes #LivingWage resolution and urge @hm
+            shareholders to vote for it on 7 May! Do the right thing @Swedbank
+            @nordea @folksam @Alecta @storebrand_no @AP4se #ShareYourProfits
+            #TurnAroundHM #LivingWageNow
           </p>
           <TwitterShareButton
             options={{
               text:
-                'I support the @cleanclothes #LivingWage resolution and urge you to vote for it on 7 May! Do the right thing @Swedbank @nordea @folksam @Alecta @storebrand_no #ShareYourProfits @AP4se #TurnAroundHM #LivingWageNow',
+                'I support the @cleanclothes #LivingWage resolution and urge @hm shareholders to vote for it on 7 May! Do the right thing @Swedbank @nordea @folksam @Alecta @storebrand_no #ShareYourProfits @AP4se #TurnAroundHM #LivingWageNow',
             }}
           />
 
@@ -75,6 +74,15 @@ const Generic = props => (
             #TurnAroundHM #LivingWageNow
           </p>
           <ul>
+            <li>
+              <a
+                href="https://www.facebook.com/familjenerlingperssonsstiftelse/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                https://www.facebook.com/familjenerlingperssonsstiftelse/
+              </a>
+            </li>
             <li>
               <a
                 href="https://www.facebook.com/folksam/"
@@ -120,16 +128,50 @@ const Generic = props => (
                 https://www.facebook.com/Alecta.se/
               </a>
             </li>
-            <li>
-              <a
-                href="https://www.facebook.com/familjenerlingperssonsstiftelse/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                https://www.facebook.com/familjenerlingperssonsstiftelse/
-              </a>
-            </li>
           </ul>
+
+          <table>
+            <thead>
+              <tr>
+                <th>Shareholder</th>
+                <th># of shares</th>
+                <th>Dividend 2019 (USD)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>The Stefan Persson family and related companies</td>
+                <td>785,710,056</td>
+                <td>824,995,559</td>
+              </tr>
+              <tr>
+                <td>The Lottie Tham family and related companies</td>
+                <td>88,880,400</td>
+                <td>93,324,420</td>
+              </tr>
+              <tr>
+                <td>Swedbank Robur fonder</td>
+                <td>33,467,469</td>
+                <td>35,140,842</td>
+              </tr>
+              <tr>
+                <td>FJÄRDE AP Fund</td>
+                <td>22,544,164</td>
+                <td>23,671,372</td>
+              </tr>
+              <tr>
+                <td>Nordea</td>
+                <td>19,535,656</td>
+                <td>20,512,439</td>
+              </tr>
+              <tr>
+                <td>Folksam</td>
+                <td>9,878,460</td>
+                <td>10,372,383</td>
+              </tr>
+            </tbody>
+          </table>
+
           <h3>
             <a
               href="https://act.wemove.eu/campaigns/Living-Wages-HM"
