@@ -5,11 +5,13 @@ import Layout from '../components/layout'
 import pic08 from '../posts/fainting.jpg'
 import pic09 from '../posts/circles-graphic.jpg'
 import pic10 from '../posts/toycar.jpg'
+import etipic from '../assets/images/mariantoinetta.png'
 import hmwagesfull from '../assets/images/hm-wages-september2018-full.pdf'
 import hmwagessummary from '../assets/images/hm-wages-september2018-summary.pdf'
 import hmbackdossier from '../assets/images/background-hm-roadmap.pdf'
 import hmwagesshot from '../posts/hmwage-shot.png'
 import hmwageanalysis from '../assets/images/wage-analysis-nov-2018.pdf'
+import hmeti from '../assets/images/H_M-ETI-CCC_response_FINAL.pdf'
 
 const Landing = props => (
   <Layout>
@@ -133,6 +135,35 @@ const Landing = props => (
               <ul className="actions">
                 <li>
                   <a href={hmwageanalysis} className="button">
+                    View (PDF)
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section>
+          <a href={hmeti} className="image">
+            <img src={etipic} alt="" />
+          </a>
+          <div className="content">
+            <div className="inner">
+              <header className="major">
+                <a href={hmeti}>
+                  <h3>
+                    Background document: CCC's full response to the ETI
+                    evaluation of H&amp;M's policy.
+                  </h3>
+                </a>
+              </header>
+              <p>
+                The Ethical Trade Initiative (ETI) made an evaluation of
+                H&amp;M's wage policy. We disagree with several of their
+                conclusions, and explain why.
+              </p>
+              <ul className="actions">
+                <li>
+                  <a href={hmeti} className="button">
                     View (PDF)
                   </a>
                 </li>
